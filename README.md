@@ -1,4 +1,5 @@
 # din-din-
-![logo-header](https://user-images.githubusercontent.com/91497473/190937464-ba5187e1-83b5-437f-b64c-3e0e22d803a6.png)
+![ilustra-banner](https://user-images.githubusercontent.com/91497473/190937514-f3f41990-2807-4209-a2da-83c7492ea977.png)
+
 
 primeiro projeto usando tecnologias básicas como HTML,CSS
