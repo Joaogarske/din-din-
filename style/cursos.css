@@ -1,0 +1,49 @@
+
+
+main h1{
+    color:#FF4081;
+    font-size: 60px;
+    margin-left: 82px;
+    margin-top: 85px;
+}
+main h4{
+   color:  #555555;
+   font-size: 20px;
+   margin-left: 82px;
+}
+.container_cursos{
+    display: grid;
+    grid-template-columns: 300px 700px;
+    grid-template-rows: 450px 450px 450px;
+    align-items: center;
+    grid-gap: 100px 150px;
+    margin-left: 150px;
+    margin-top: 60px;
+    margin-bottom: 150px;
+}
+.banner_curso{
+
+}
+
+.conteudo_curso h3{
+     font-size: 35px;
+     color:#FF4081;
+}
+.conteudo_curso p {
+    font-size: 18px;
+    color: black;
+    padding: 50px 0px;
+}
+.conteudo_curso button{
+   border-style: none;
+   background-color:#419488;
+   width: 231px;
+   height: 51px;
+   border-radius: 30px;
+}
+.conteudo_curso a{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    
+}

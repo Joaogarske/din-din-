@@ -1,0 +1,41 @@
+footer{
+    display: flex;
+    height: 207px;
+    background-color:  #2E948A;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.navegacao_rodape ol{
+    list-style: none;
+}
+.navegacao_rodape ol li{
+   padding: 10px 0px;
+}
+.navegacao_rodape ol li a{
+   text-decoration: none;
+   color: aliceblue;
+   
+   font-size: 20px;
+}
+.outros_rodape ol{
+    list-style: none;
+}
+.outros_rodape ol li{
+    padding: 10px 0px;
+}
+.outros_rodape ol li button{
+   width: 289px;
+   height: 51px;
+   
+   border-radius: 30px ;
+   border-color: aliceblue;
+   background-color: transparent;
+}
+.outros_rodape ol li a{
+   text-decoration: none;
+   color: aliceblue;
+   font-size: 20px;
+   
+
+}

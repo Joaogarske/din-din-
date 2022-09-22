@@ -1,0 +1,38 @@
+.container_curso_grid{
+    display: grid;
+    grid-template-columns: 400px 400px;
+    margin-left: 202px;
+    margin-top: 110px;
+    grid-gap:150px;
+}
+.conteudo_banner h2{
+   color: #FF4081;
+   font-size: 55px; 
+   
+}
+.conteudo_banner p{
+    font-size: 20px;
+    padding-top: 22px;
+}
+.conteudo_curso h2{
+    color: #FF4081;
+    font-size: 35px;
+    padding-bottom: 30px;
+}
+.conteudo_curso p{
+    font-size: 20px;
+    padding-bottom: 15px;
+}
+.video_curso h1{
+    color: #FF4081;
+    text-align: center;
+    margin-top: 125px;
+    
+}
+.video_curso{
+    background-color: aquamarine;
+    width:462px ;
+    height: 261px;
+    
+    
+}
